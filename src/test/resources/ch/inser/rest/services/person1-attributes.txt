@@ -1,0 +1,6 @@
+per_name:STRING
+per_birth_date:DATE
+per_salary:DOUBLE
+per_age:LONG
+per_married:BOOLEAN
+per_update_date:TIMESTAMP
